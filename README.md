@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Hi+there!+👋;I'm+Rajneesh+Kumar;Web+Developer;Open+Source+Enthusiast;Github+id:+Mark-gits)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
