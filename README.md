@@ -28,11 +28,11 @@
 
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
-<img src="https://drive.google.com/drive/folders/1jQ0EPFnxjmUv8AfjVnL_pZXjQaMqEYhe" height="70" width="70">
-<img src="https://drive.google.com/drive/folders/1jQ0EPFnxjmUv8AfjVnL_pZXjQaMqEYhe" height="70" width="70">
-<img src="https://drive.google.com/drive/folders/1jQ0EPFnxjmUv8AfjVnL_pZXjQaMqEYhe" height="70" width="70">
-<img src="https://drive.google.com/drive/folders/1jQ0EPFnxjmUv8AfjVnL_pZXjQaMqEYhe" height="70" width="70">
-<img src="https://drive.google.com/drive/folders/1jQ0EPFnxjmUv8AfjVnL_pZXjQaMqEYhe" height="70" width="70">
+<img src="log/parrot-evil.gif" height="70" width="70">
+<img src="log/parrot-evil.gif" height="70" width="70">
+<img src="log/parrot-evil.gif" height="70" width="70">
+<img src="log/parrot-evil.gif" height="70" width="70">
+<img src="log/parrot-evil.gif" height="70" width="70">
 <!--
 **Rahul-cmd1/Rahul-cmd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
